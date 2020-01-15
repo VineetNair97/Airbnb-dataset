@@ -22,7 +22,7 @@ Types of neighborhood groups and their price: As it is known that Manhattan is t
 
 
 The various room types available are either entire room or private room or the shared ones. from the pie-chart it can be seen that almost 50% of all the available room types is of entire room and just 2.5% of them contains the shared ones.
-![newplot (3)](https://user-images.githubusercontent.com/53135657/72220696-56857080-3521-11ea-9a07-1355830d14d8.png)
+![newplot (3)]
 
 
 The one Neighbourhood which stands out from the below visualization is Murray hill having the maximum average host listing counts.It is the one which is yellow in color.
@@ -54,7 +54,7 @@ The map plot shows the distribution of the various Airbnb's lsiting in the city 
 
 ## Conclusion ##
 
-This Airbnb's dataset appeared to be very rich dataset with variety of columns, that allowed us to explore various visualizations.Firstly, we have found hosts who's taking proper advantage of the Airbnb platform with maximum house listing of 121. Almost 50% of the hosts tend to rent the whole room whereas 2.5% prefer to share it with others and 46% of people tend to rent a private room which is very flexible. Since, people tend to look at reviews and ratings before taking any house the best plot of the reviews and price shows that the maximum reviewed house has the price of almost 20$/day which is quite a norm in the city of Newyork.Out of all the neighborhood Murray Hill area in the NewYork is found to have the maximum number of lisitings and most importantly out of all places in NYC, Manhattan is found to be the costiliest and has large number of houses listed for Airbnb. It is probably because of the famous tourist spot and various big companies located over there. Here's the link for the code:https://github.com/VineetNair97/Airbnb-dataset/blob/master/AirBnB's%20Visualization%20using%20plotly.ipynb
+This Airbnb's dataset appeared to be very rich dataset with variety of columns, that allowed us to explore various visualizations.Firstly, we have found hosts who's taking proper advantage of the Airbnb platform with maximum house listing of 121. Almost 50% of the hosts tend to rent the whole room whereas 2.5% prefer to share it with others and 46% of people tend to rent a private room which is very flexible. Since, people tend to look at reviews and ratings before taking any house the best plot of the reviews and price shows that the maximum reviewed house has the price of almost 20$/day which is quite a norm in the city of Newyork.Out of all the neighborhood Murray Hill area in the NewYork is found to have the maximum number of lisitings and most importantly out of all places in NYC, Manhattan is found to be the costiliest and has large number of houses listed for Airbnb. It is probably because of the famous tourist spot and various big companies located over there. Here's the link for the code:https://github.com/VineetNair97/Airbnb-dataset/blob/master/AirBnB's%20Visualization%20using%20Plotly%20(1).ipynb
 
 
 
