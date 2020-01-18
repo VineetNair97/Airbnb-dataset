@@ -22,7 +22,9 @@ Types of neighborhood groups and their price: As it is known that Manhattan is t
 
 
 The various room types available are either entire room or private room or the shared ones. from the pie-chart it can be seen that almost 50% of all the available room types is of entire room and just 2.5% of them contains the shared ones.
-![newplot (3)]
+
+![newplot (9)](https://user-images.githubusercontent.com/53135657/72670365-8d202700-3a0a-11ea-83ea-65a71035e6f7.png)
+
 
 
 The one Neighbourhood which stands out from the below visualization is Murray hill having the maximum average host listing counts.It is the one which is yellow in color.
